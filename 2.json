@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆",
-      "name": "test",
+      "name": "自建",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -623,12 +623,11 @@
   "logo": "https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
   "lives": [
     {
-      "name": "test",
+      "name": "山东电信",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/AIsenfu/tvbox-/refs/heads/main/sddx.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/AIsenfu/tvbox-/refs/heads/main/sddx.m3u",
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ]
-
 }
