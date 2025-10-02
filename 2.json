@@ -396,9 +396,9 @@
     {
       "name": "test",
       "type": 0,
-      "url": "http://daynight.cyou:9000/1.m3u",
-      "playerType": 2,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "url": "https://raw.githubusercontent.com/AIsenfu/tvbox-/refs/heads/main/sddx.m3u",
+      "playerType": 2
     }
   ]
 }
+
