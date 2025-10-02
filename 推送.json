@@ -1,6 +1,6 @@
 {
   "spider": "https://mdkfiles.kefuzixun.net/Account/121111/media/image/v_image_6dc37816.jpg;md5;683285f2a271cedd45acc27052b70ff2",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "现在注释掉wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "https://free.picui.cn/free/2025/07/08/686ca7559748c.png",
   "sites": [
     {
@@ -163,4 +163,5 @@
     }
   ]
 }
+
 
