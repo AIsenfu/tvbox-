@@ -1,6 +1,7 @@
 {
   "spider": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "logo": "https://free.picui.cn/free/2025/07/08/686ca7559748c.png",
   "sites": [
     {
       "key": "豆",
@@ -306,15 +307,6 @@
       "changeable": 0,
       "jar":"https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
     }
-  ],
-  "logo": "https://free.picui.cn/free/2025/07/08/686ca7559748c.png",
-  "lives": [
-    {
-      "name": "自用",
-      "type": 0,
-      "url": "https://live.ottiptv.cc/iptv.m3u?userid=5850793826&sign=c20aef90bb405a5f0a71bfe2f081dc8877895bd7124f590319a73b48a33cb17ff4da617ef807054ff567ebc599bed8486fe9cccab1be3ee3631d9279d5c612f8c5bb617cdaab75&auth_token=5a19aac62b6252132296051b54f30b3c",
-      "playerType": 2
-    }
   ]
 }
 
@@ -323,5 +315,6 @@
     }
   ]
 }
+
 
 
