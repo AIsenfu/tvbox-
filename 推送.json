@@ -4,8 +4,8 @@
   "logo": "https://free.picui.cn/free/2025/07/08/686ca7559748c.png",
   "sites": [
     {
-      "key": "豆",
-      "name": "请勿相信视频内广告",
+      "key": "首页",
+      "name": "晚安影视|请勿相信视频内广告",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -156,12 +156,13 @@
 
   "lives": [
     {
-      "name": "待定",
+      "name": "测试",
       "type": 0,
-      "url": "",
+      "url": "http://hk-yd-proxy.gitwarp.com:6699/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
       "playerType": 2
     }
   ]
 }
+
 
 
