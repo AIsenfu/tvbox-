@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆",
-      "name": "夸父有问题的看公众号推文【神秘的哥哥们】",
+      "name": "test",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -625,9 +625,10 @@
     {
       "name": "test",
       "type": 0,
-      "url": "http://daynight.cyou:9000/1.m3u",
+      "url": "https://raw.githubusercontent.com/AIsenfu/tvbox-/refs/heads/main/sddx.m3u",
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ]
+
 }
