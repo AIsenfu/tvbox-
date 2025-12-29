@@ -21,16 +21,33 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },        
     {
-      "name": "备用",
+      "name": "冰茶TV直播",
       "type": 0,
-      "url": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/tv/?ou=4c3",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
-      "playerType": 2,
+	  "playerType": 2,
+      "url": "https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian&huikan=1&json=true",
+	  "ua": "bingcha/1.1(mianfeifenxiang)",
       "timeout": 10
-    }
+    },
+	{ 
+	  "name": "备用白雪TV直播",
+      "type": 1,
+	  "url": "http://bxtv.3a.ink/live.txt"
+	}
   ],
   "sites": [
+	{
+    "key": "移动云盘",
+    "name":"☁免扫码丨网盘",
+    "type": 3,
+    "api": "csp_PantaGuard",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1,
+    "jar": "http://oss4liview.moji.com/thd_file/2025/12/25/bdf0989afa4b23c0a0763ace713f109b.jpg;md5;f23788d6c3a5e4b1d3bf1ff1ee42da32",
+
+    "timeout": 25
+    },
     {
       "key": "豆瓣",
       "name": "🌙晚安影视|请勿相信视频内广告",
@@ -101,15 +118,75 @@
       }
     },
     {
-      "key": "糯米",
-      "name": "⚡糯米┃秒播",
+      "key": "糯米影视",
+      "name":"⚡糯米┃秒播",
       "type": 3,
-      "api": "csp_NmyswvGuard",
-      "timeout": 15,
+      "api": "csp_NmysGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
+      "filterable": 1,
+      "ext": {"danmu": true},
+      "jar": "http://oss4liview.moji.com/thd_file/2025/12/25/bdf0989afa4b23c0a0763ace713f109b.jpg;md5;f23788d6c3a5e4b1d3bf1ff1ee42da32",
+	  "timeout": 10
+    },
+    {
+      "key": "天天丨影视",
+      "name": "☀天天丨影视",
+      "type": 3,
+      "api": "csp_TianTianGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {"danmu": true,"site": 0},
+      "jar": "http://oss4liview.moji.com/thd_file/2025/12/25/bdf0989afa4b23c0a0763ace713f109b.jpg;md5;f23788d6c3a5e4b1d3bf1ff1ee42da32", 
+      "timeout": 10
+    },	
+	{
+    "key": "潮流",
+    "name":"🌊潮流丨影视",
+    "type": 3,
+    "jar": "https://play.iptv365.org/肥猫/spider.jar",
+    "api": "csp_AppRJ",
+    "ext": "http://v.rbotv.cn"
+    },
+    {
+    "key": "EmbyJS",
+    "name":"🍃Emby丨JS",
+    "type": 3,
+    "api": "https://mpimg.cn/down.php/40d30fe3d9671e0d700f1c272bb20aaa.js",
+	
+    "style": {"type": "rect","ratio": 1.33},
+    "changeable": 1,
+    "jar": "http://oss4liview.moji.com/thd_file/2025/12/25/bdf0989afa4b23c0a0763ace713f109b.jpg;md5;f23788d6c3a5e4b1d3bf1ff1ee42da32"
+    },
+	{
+	"key": "闪影",
+	"name": "⚡闪影丨影视",
+	"type": 3,
+	"api": "csp_AppYs",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"jar":"https://gitee.com/senno/tvbox/raw/master/jar/欧歌.jar",
+	"ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
+	"categories": 
+		[
+		"电影",
+		"剧集",
+		"短剧",
+		"综艺",
+		"动漫"
+		]
+	},
+    {
+	"key":"晚晚影视",
+	"name":"💤晚晚丨影视",
+	"type":3,
+	"jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251223/HDAF/12231322.png;md5;981a663a441e22d9f735d02cba5520ed",
+	"api":"csp_Wwys",
+	"ext":"https://vip.wwgz.cn:5200"
     },
     {
       "key": "热播影视",
