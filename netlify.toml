@@ -1,0 +1,9 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.129.0"  # 指定你的 Hugo 版本
+
+[[plugins]]
+  package = "netlify-plugin-hugo"  # 使用 Hugo 插件
