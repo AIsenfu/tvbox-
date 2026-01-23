@@ -2,14 +2,6 @@
   "version": "1.0",
   "updateTime": "2026-01-23",
   "resources": {
-      "gzh": {
-      "key": "gzh",
-      "name": "天亮讲晚安公众号",
-      "describe": "欢迎关注我的公众号，不定时分享网盘更新等",
-      "logo": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=s1.imagehub.cc/images/2024/11/06/14281e4fd77c9a4844353b6b57b7ea10.png",
-      "url": "https://free.picui.cn/free/2025/07/08/686ca7558291b.jpg",
-      "copyUrl": ""
-    },
     "tvbox": {
       "key": "tvbox",
       "name": "tvbox配置文件",
@@ -18,20 +10,36 @@
       "url": "#",
       "copyUrl": "https://urltv.daynight001.top"
     },
-    "studypan": {
-      "key": "studypan",
-      "name": "天亮讲晚安医学网盘",
-      "describe": "内含医学生学习资料，免费下载",
-      "logo": "https://free.picui.cn/free/2025/07/08/686ca7559748c.png",
-      "url": "https://alist.daynight001.top",
+    "music": {
+      "key": "music",
+      "name": "晚安音乐",
+      "describe": "舒缓的睡前音乐，帮助你放松心情",
+      "logo": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=peaceful%20night%20music%20icon%2C%20minimalist%20design%2C%20blue%20color%20scheme&image_size=square",
+      "url": "#",
       "copyUrl": ""
     },
-    "PICUI": {
-      "key": "PICUI",
-      "name": "PICUI图床",
-      "describe": "所有图片均来自PICUI图床",
-      "logo": "https://ts1.tc.mm.bing.net/th/id/ODF.nlpGVyGltfQ5lSlrM5307w?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
-      "url": "https://picui.cn/",
+    "story": {
+      "key": "story",
+      "name": "睡前故事",
+      "describe": "温馨的睡前故事，伴你进入梦乡",
+      "logo": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=bedtime%20story%20book%20icon%2C%20minimalist%20design%2C%20warm%20color%20scheme&image_size=square",
+      "url": "#",
+      "copyUrl": ""
+    },
+    "meditation": {
+      "key": "meditation",
+      "name": "冥想引导",
+      "describe": "专业的冥想指导，缓解一天的疲劳",
+      "logo": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=meditation%20icon%2C%20minimalist%20design%2C%20purple%20color%20scheme&image_size=square",
+      "url": "#",
+      "copyUrl": ""
+    },
+    "asmr": {
+      "key": "asmr",
+      "name": "ASMR助眠",
+      "describe": "轻柔的ASMR声音，帮助你快速入睡",
+      "logo": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=ASMR%20icon%2C%20minimalist%20design%2C%20green%20color%20scheme&image_size=square",
+      "url": "#",
       "copyUrl": ""
     }
   }
