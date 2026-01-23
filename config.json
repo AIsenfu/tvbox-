@@ -30,8 +30,8 @@
       "key": "PICUI",
       "name": "PICUI图床",
       "describe": "所有图片均来自PICUI图床",
-      "logo": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=bedtime%20story%20book%20icon%2C%20minimalist%20design%2C%20warm%20color%20scheme&image_size=square",
-      "url": "https://ts1.tc.mm.bing.net/th/id/ODF.nlpGVyGltfQ5lSlrM5307w?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+      "logo": "https://ts1.tc.mm.bing.net/th/id/ODF.nlpGVyGltfQ5lSlrM5307w?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+      "url": "https://picui.cn/",
       "copyUrl": ""
     }
   }
